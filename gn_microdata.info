@@ -1,0 +1,6 @@
+name = G-nova Microdata
+description = Provides enhancements to make Microdata integration easier.
+core = 7.x
+package = G-nova
+
+files[] = gn_microdata.module
